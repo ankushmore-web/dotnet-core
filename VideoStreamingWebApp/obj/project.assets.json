@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Modules\\Module_DotNet\\dotnet-core\\VideoStreamingWebApp\\VideoStreamingWebApp\\VideoStreamingWebApp.csproj",
+      "projectUniqueName": "E:\\Modules\\Module_DotNet\\dotnet-core\\VideoStreamingWebApp\\VideoStreamingWebApp.csproj",
       "projectName": "VideoStreamingWebApp",
-      "projectPath": "E:\\Modules\\Module_DotNet\\dotnet-core\\VideoStreamingWebApp\\VideoStreamingWebApp\\VideoStreamingWebApp.csproj",
+      "projectPath": "E:\\Modules\\Module_DotNet\\dotnet-core\\VideoStreamingWebApp\\VideoStreamingWebApp.csproj",
       "packagesPath": "C:\\Users\\ankus\\.nuget\\packages\\",
-      "outputPath": "E:\\Modules\\Module_DotNet\\dotnet-core\\VideoStreamingWebApp\\VideoStreamingWebApp\\obj\\",
+      "outputPath": "E:\\Modules\\Module_DotNet\\dotnet-core\\VideoStreamingWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ankus\\AppData\\Roaming\\NuGet\\NuGet.Config",
